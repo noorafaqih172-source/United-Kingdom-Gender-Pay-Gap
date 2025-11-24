@@ -27,8 +27,14 @@ UK employers continue to have notable gender pay gaps, varying by industry, regi
 
 ### Recommendations
 
+### Limitations
+1- Age and education level are not included in the dataset.
+
+2- No separate gender column is provided; gender appears only within quartile fields.
+
 ## Dataset
 Datasetsource: https://gender-pay-gap.service.gov.uk/
+SIC code: https://resources.companieshouse.gov.uk/sic
 
 ### How To Run
 1- Download the ZIP files
