@@ -8,7 +8,7 @@ There are several contributing factors to the gender pay gap. These may include 
 Furthermore, within the same sector, men are often found in positions that offer higher pay than those typically held by women. As a result, these disparities in sector representation and role distribution contribute to the overall gender pay gap observed across the United Kingdom.
 
 ### Problem Statement
-UK employers continue to have notable gender pay gaps, varying by industry, region, and company size. Late report submissions suggest reduced organizational accountability. employer data from 2017-2025.<img width="468" height="55" alt="image" src="https://github.com/user-attachments/assets/0d2db403-df21-4d41-924a-d776e6d9b0b4" />
+UK employers continue to have notable gender pay gaps, varying by industry, region, and company size. Late report submissions suggest reduced organizational accountability. employer data from 2017-2025.
 
 ### Approaches
 1-	Identify employers with extreme gender pay gaps.
