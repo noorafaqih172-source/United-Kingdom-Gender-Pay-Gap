@@ -30,11 +30,33 @@ UK employers continue to have notable gender pay gaps, varying by industry, regi
 <img width="1440" height="864" alt="Screenshot 2025-11-24 at 1 30 43 PM" src="https://github.com/user-attachments/assets/27a71e95-10af-42cd-a619-89418b91dceb" />
 
 ### Conclusion
+1- Gender pay disparities vary significantly by employer size, with medium and large-scale employers showing the greatest imbalances.
+
+2- Women are overrepresented in lower-paid quartiles, while men dominate senior roles with 20%+ gaps.
+
+3- Extreme male- and female-favoured gaps reflect structural inequalities within specific sectors.
+
+4- High-income, male-dominated industries show the widest gender gaps, especially financial services and construction.
+
+5- Regional differences indicate that some locations consistently experience higher gender pay disparities.
 
 ### Recommendations
+1- Enhance women’s access in market to higher-paid and leadership roles through structured progression pathways.
+
+2- Promote transparent and bias-free processes in high-gap industries.
+
+3- Reduce concentration of women in lower quartiles by improving job design, flexibility.
+
+4- Benchmark policies from small and corporate employers that show more balanced outcomes.
+
+5- Strengthen reporting accuracy by adding missing demographic variables and standardizing submissions.
+
+6- Apply region-specific equality initiatives to reduce area-based disparities.
 
 ### Limitations
-1- Age and education level are not included in the dataset.
+1- Age
+
+2- education level are not included in the dataset.
 
 2- No separate gender column is provided; gender appears only within quartile fields.
 
