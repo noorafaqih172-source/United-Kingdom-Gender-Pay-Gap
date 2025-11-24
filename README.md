@@ -12,11 +12,17 @@ UK employers continue to have notable gender pay gaps, varying by industry, regi
 
 ### Approaches
 1-	Identify employers with extreme gender pay gaps.
+
 2-	What are the patterns of gender pay disparity across different industries in UK.
+
 3-	What are the patterns of gender pay disparity across different regions in UK.
+
 4-	What are the patterns of gender pay disparity across different employer size in UK.
+
 5-	Does submission timeliness affect the gender pay gap?
+
 6-	Is there a gap between men and women across low, middle, and top pay quartiles?
+
 7-	How has the gender pay gap in the UK shifted over time from 2017 to 2025?
 
 ### Dashboard
