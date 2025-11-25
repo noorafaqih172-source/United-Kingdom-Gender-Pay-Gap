@@ -26,39 +26,37 @@ UK employers continue to have notable gender pay gaps, varying by industry, regi
 7-	How has the gender pay gap in the UK shifted over time from 2017 to 2025?
 
 ### Dashboard
-<img width="1440" height="868" alt="Screenshot 2025-11-24 at 1 29 26 PM" src="https://github.com/user-attachments/assets/2c228e1a-f5d1-474e-99b4-bf8ebe342214" />
-<img width="1440" height="864" alt="Screenshot 2025-11-24 at 1 30 43 PM" src="https://github.com/user-attachments/assets/27a71e95-10af-42cd-a619-89418b91dceb" />
+<img width="1440" height="868" alt="Dashboard1" src="https://github.com/user-attachments/assets/5c038086-970b-4954-858b-8033c90211ad" />
+<img width="1440" height="867" alt="Dashboard2" src="https://github.com/user-attachments/assets/90443c9f-61a8-4024-9e1c-d5f772f1a0ca" />
 
 ### Conclusion
-1- Gender pay disparities vary significantly by employer size, with medium and large-scale employers showing the greatest imbalances.
+1- Medium and large employers show the largest gender imbalances.
 
-2- Women are overrepresented in lower-paid quartiles, while men dominate senior roles with 20%+ gaps.
+2- Women dominate lower-paid roles; men dominate top-paid roles.
 
-3- Extreme male- and female-favoured gaps reflect structural inequalities within specific sectors.
+3- Financial services, construction, and ICT have the highest gaps.
 
-4- High-income, male-dominated industries show the widest gender gaps, especially financial services and construction.
-
-5- Regional differences indicate that some locations consistently experience higher gender pay disparities.
+4- Regional differences show unequal workforce structures.
 
 ### Recommendations
-1- Enhance women’s access in market to higher-paid and leadership roles through structured progression pathways.
+1- Increase women’s access to higher-paying and leadership roles.
 
-2- Promote transparent and bias-free processes in high-gap industries.
+2- Apply transparent, bias-free hiring and promotion practices.
 
-3- Reduce concentration of women in lower quartiles by improving job design, flexibility.
+3- Support flexible work and return-to-work pathways.
 
-4- Benchmark policies from small and corporate employers that show more balanced outcomes.
+4- Copy best practices from small and corporate employers.
 
-5- Strengthen reporting accuracy by adding missing demographic variables and standardizing submissions.
-
-6- Apply region-specific equality initiatives to reduce area-based disparities.
+5- Use region-specific equality initiatives.
 
 ### Limitations
-1- Age
+1- Gender
 
-2- education level are not included in the dataset.
+2- Age
 
-2- No separate gender column is provided; gender appears only within quartile fields.
+3- education level are not included in the dataset.
+
+4- Years of experience
 
 ## Dataset
 Datasetsource: https://gender-pay-gap.service.gov.uk/
