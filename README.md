@@ -77,4 +77,4 @@ SIC code: https://resources.companieshouse.gov.uk/sic
 ### Dependencies
 Python, Tableau
 
-## Refrence
+## References
