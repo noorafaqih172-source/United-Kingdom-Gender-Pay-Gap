@@ -25,6 +25,11 @@ UK employers continue to have notable gender pay gaps, varying by industry, regi
 
 7-	How has the gender pay gap in the UK shifted over time from 2017 to 2025?
 
+## Dataset
+Datasetsource: https://gender-pay-gap.service.gov.uk/
+
+SIC code: https://resources.companieshouse.gov.uk/sic
+
 ### Dashboard
 <img width="1440" height="868" alt="Dashboard1" src="https://github.com/user-attachments/assets/5c038086-970b-4954-858b-8033c90211ad" />
 <img width="1440" height="867" alt="Dashboard2" src="https://github.com/user-attachments/assets/90443c9f-61a8-4024-9e1c-d5f772f1a0ca" />
@@ -57,11 +62,6 @@ UK employers continue to have notable gender pay gaps, varying by industry, regi
 3- education level are not included in the dataset.
 
 4- Years of experience
-
-## Dataset
-Datasetsource: https://gender-pay-gap.service.gov.uk/
-
-SIC code: https://resources.companieshouse.gov.uk/sic
 
 ### How To Run
 1- Download the ZIP files
